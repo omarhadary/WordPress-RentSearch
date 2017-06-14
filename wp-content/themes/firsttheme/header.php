@@ -2,7 +2,9 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Amesome Theme</title>
+        <title>First Theme</title>
+        <?php wp_head(); ?>
+
     </head>
 
     <body>
