@@ -88,6 +88,7 @@ Thumbs.db
 # "themes" directory
 !wp-content/mu-plugins/
 !wp-content/plugins/
+!Procfile
 
 
 # ignore these plugins
