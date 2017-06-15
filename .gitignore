@@ -33,6 +33,8 @@
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
+!composer.json
+!wp-config.php
 
 # ignore all files starting with .
 .*
