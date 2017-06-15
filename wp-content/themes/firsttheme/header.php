@@ -7,6 +7,6 @@
 
     </head>
 
-    <body>
+    <body <?php body_class(array()); ?>>
 
         <?php wp_nav_menu(array('theme_location'=>'primary')); ?>
