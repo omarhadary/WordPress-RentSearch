@@ -1,1 +1,1 @@
-web: sh boot.sh
+web: bin/heroku-php-apache2 wp-content/themes/firsttheme
